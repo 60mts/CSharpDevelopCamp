@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31717.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KampIntro", "KampIntro\KampIntro.csproj", "{98E0D988-62E8-4916-A759-85CB2E433285}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matematik", "Matematik\Matematik.csproj", "{C10B651E-F031-440F-9F2C-8463C1F2929B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98E0D988-62E8-4916-A759-85CB2E433285}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98E0D988-62E8-4916-A759-85CB2E433285}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98E0D988-62E8-4916-A759-85CB2E433285}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98E0D988-62E8-4916-A759-85CB2E433285}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C10B651E-F031-440F-9F2C-8463C1F2929B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C10B651E-F031-440F-9F2C-8463C1F2929B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C10B651E-F031-440F-9F2C-8463C1F2929B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C10B651E-F031-440F-9F2C-8463C1F2929B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02B26601-3CE4-4DB4-A53B-9F3E14C8B494}
+	EndGlobalSection
+EndGlobal
