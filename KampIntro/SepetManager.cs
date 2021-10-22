@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 
 namespace KampIntro
 {
-      internal class SepetManager
     {
         public void Ekle()
         {
