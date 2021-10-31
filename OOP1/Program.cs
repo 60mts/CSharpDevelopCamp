@@ -9,3 +9,8 @@ product.CategoryId = 2;
 
 Product product1 = new Product { Id=5,CategoryId=7,UnitInStock=3};
 
+ProductManager productManager = new ProductManager();
+productManager.Topla(2, 5);
+Console.Read();
+Console.WriteLine("Merhaba Özcan");
+

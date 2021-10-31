@@ -5,11 +5,12 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace KampIntro
-{
-    {
+{         
+    public class SepetManager{  
         public void Ekle()
         {
             Console.WriteLine("Sepete eklendi");
         }
     }
-}
+} 
+    
